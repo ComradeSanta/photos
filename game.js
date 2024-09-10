@@ -17,8 +17,8 @@ const bird = {
 
 const pipes = [];
 const pipeWidth = 50;
-const pipeGap = 400;
-const pipeFrequency = 200;
+const pipeGap = 350;
+const pipeFrequency = 130;
 let frameCount = 0;
 let score = 0;
 let isPlaying = false;  // Game state
